@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "./static/js/main.3106fbaa.js",
+    "static/js/424.76cdbc42.chunk.js": "./static/js/424.76cdbc42.chunk.js",
+    "static/js/597.61f566d8.chunk.js": "./static/js/597.61f566d8.chunk.js",
+    "static/js/613.66ab5b37.chunk.js": "./static/js/613.66ab5b37.chunk.js",
+    "static/css/812.16062aa3.chunk.css": "./static/css/812.16062aa3.chunk.css",
+    "static/js/812.6104468b.chunk.js": "./static/js/812.6104468b.chunk.js",
+    "static/js/202.c3bdaf4b.chunk.js": "./static/js/202.c3bdaf4b.chunk.js",
+    "static/js/108.d812e35c.chunk.js": "./static/js/108.d812e35c.chunk.js",
+    "static/js/912.784ee7bb.chunk.js": "./static/js/912.784ee7bb.chunk.js",
+    "static/js/168.5cf455a9.chunk.js": "./static/js/168.5cf455a9.chunk.js",
+    "static/css/830.a8b47aad.chunk.css": "./static/css/830.a8b47aad.chunk.css",
+    "static/js/830.037c0e99.chunk.js": "./static/js/830.037c0e99.chunk.js",
+    "static/media/welcome_background.png": "./static/media/welcome_background.ed6faca50c4d8430abb9.png",
+    "static/media/video.mp4": "./static/media/video.16997bc5e22b5a25418c.mp4",
+    "static/media/video.webm": "./static/media/video.82b858e0a6c353e84046.webm",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/js/main.3106fbaa.js"
+  ]
+}
